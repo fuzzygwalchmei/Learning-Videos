@@ -1,5 +1,5 @@
-# Learning-Videos
-A collection of random learning videos
+# Learning-Resources
+A collection of random learning videos and other resources
 
 
 Creating a Digital Clock:
@@ -30,5 +30,7 @@ Extract Audio from Video with Python:
 https://youtu.be/_Z-jJ9SSwwc
 
 Introduction to Python (part 1)
-
 https://www.youtube.com/watch?v=P-jRaAnUsqQ
+
+Python Tips Notebook
+https://github.com/chiphuyen/python-is-cool/blob/master/cool-python-tips.ipynb
