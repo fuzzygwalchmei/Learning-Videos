@@ -34,3 +34,6 @@ https://www.youtube.com/watch?v=P-jRaAnUsqQ
 
 Python Tips Notebook
 https://github.com/chiphuyen/python-is-cool/blob/master/cool-python-tips.ipynb
+
+Awesome Python (because... it is)
+https://awesome-python.com/
