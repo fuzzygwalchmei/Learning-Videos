@@ -37,3 +37,9 @@ https://github.com/chiphuyen/python-is-cool/blob/master/cool-python-tips.ipynb
 
 Awesome Python (because... it is)
 https://awesome-python.com/
+
+
+Githubs of knowledge
+https://blog.fill.ly/6-github-repos-for-instant-knowledge-boost/
+
+
