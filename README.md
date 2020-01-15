@@ -38,6 +38,8 @@ https://github.com/chiphuyen/python-is-cool/blob/master/cool-python-tips.ipynb
 Awesome Python (because... it is)
 https://awesome-python.com/
 
+Awesome Testing:
+https://github.com/atinfo/awesome-test-automation/blob/master/python-test-automation.md
 
 Githubs of knowledge
 https://blog.fill.ly/6-github-repos-for-instant-knowledge-boost/
